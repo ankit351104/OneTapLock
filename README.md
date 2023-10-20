@@ -5,3 +5,4 @@ This app is specially created for users who need a quick and efficient way to se
 With just one tap, you can lock your phone instantly and disables the biometric locks can be opened via PIN only.
 
 ![alt text](https://github.com/ankit351104/OneTapLock/blob/master/app%20main.png?raw=true)
+![alt text](https://github.com/ankit351104/OneTapLock/blob/master/lock.jpg?raw=true)
